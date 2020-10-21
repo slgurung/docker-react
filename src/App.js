@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           learn react
-          just change
+          Hello React! just change on feature branch.
         </a>
       </header>
     </div>
